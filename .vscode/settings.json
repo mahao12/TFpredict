@@ -1,0 +1,19 @@
+{
+    "editor.rulers": [100],
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "editor.detectIndentation": false,
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": false,
+    "editor.formatOnType": false,
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+  
+    "[markdown]": {
+      "editor.tabSize": 4,
+      "editor.wordWrap": "wordWrapColumn",
+      "editor.wrappingIndent": "same",
+      "editor.wordWrapColumn": 100
+    },
+  }
